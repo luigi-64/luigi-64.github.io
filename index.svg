@@ -1,1 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="querySelector('image').href.baseVal=location.hash.substr(1)"><image/></svg>
